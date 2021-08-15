@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ThePotatoPvP
 - 👀 I’m interested in python and discord bots
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me you can find me on hypixel sometimes
+- 🌱 I’m currently learning python and doing random little projects to have fun
+
+
 
 <!---
 ThePotatoPvP/ThePotatoPvP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

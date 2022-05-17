@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ThePotatoPvP
-- 👀 I’m interested in python and discord bots
-- 🌱 I’m currently learning python and doing random little projects to have fun
+- 👀 I’m interested in the theory behind programs
+- 🌱 I’m currently learning C and OCaml and doing random little projects to have fun
+- Pretty fluent in python
 
 
 

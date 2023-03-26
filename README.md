@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThePotatoPvP
-- 👀 I’m interested in the theory behind programs
+- 👀 I’m interested in maths behind computing
 - 🌱 I’m currently learning C and OCaml and doing random little projects to have fun
 - Pretty fluent in python
 

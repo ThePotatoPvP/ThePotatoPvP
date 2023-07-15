@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate student with a love for mathemati
 - 💻 I do things in in Python, C, OCaml, JavaScript, HTML, and CSS
 - 🌟 Enthusiastic about learning and experimenting with new technologies
 - 🐧`sudo pacman -Syu` addict
+- 🇸🇨 I like flags, I should learn more about them some day
 
 ## My GitHub Stats
 

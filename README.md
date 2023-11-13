@@ -12,6 +12,6 @@ Welcome to my GitHub profile! I'm a passionate student with a love for mathemati
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ThePotatoPvP&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePotatoPvP&layout=compact&theme=dark&hide=html,css,cmake,tex" alt="Top Languages" width="48%" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePotatoPvP&layout=compact&theme=dark&hide=html,css,cmake,tex,makefile" alt="Top Languages" width="48%" height="150" />
 </div>
 

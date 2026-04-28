@@ -1,10 +1,10 @@
 # Hello there! 👋 I'm ThePotatoPvP
 
-Welcome to my GitHub profile! I'm a passionate student with a love for mathematics and computer science. I enjoy exploring different programming languages and solving challenging problems. Here are some key details about me:
+Welcome to my GitHub profile! I'm a passionate student for mathematics and computer science. I enjoy solving challenging problems, the abstracter the better. Here are some key details about me:
 
 - 📚 Majoring in Mathematics and Computer Science
 - 💻 I do things in in Python, C, OCaml, and soon SWAG
-- 🌟 Enthusiastic about learning and experimenting with new technologies
+- 🌟 Enthusiastic about learning and experimenting with technologies
 - 🐧`sudo pacman -Syu` addict
 - 🇸🇨 I like flags, I should learn more about them some day
 
